@@ -1,4 +1,4 @@
-#SHA256 Password Cracking project from Riley Kidd 247CTF
+#SHA256 Password Cracking teaching from Riley Kidd 247CTF
 
 #We will use pwntool and sys modules
 
